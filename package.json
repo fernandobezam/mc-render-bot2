@@ -1,0 +1,30 @@
+{
+  "name": "mc-render-bot",
+  "version": "1.0.0",
+  "private": true,
+  "main": "mc_render_bot.js",
+  "scripts": {
+    "start": "node mc_render_bot.js"
+  },
+  "dependencies": {
+    "axios": "^1.4.0",
+    "basic-ftp": "^5.0.5",
+    "dotenv": "^17.2.2",
+    "express": "^4.21.2",
+    "node-telegram-bot-api": "^0.61.0",
+    "openai": "^5.20.0",
+    "ssh2-sftp-client": "^9.1.0"
+  },
+  "description": "\"# mc-render-bot\" \r \"# mc-render-bot\" \r #\u0000 \u0000m\u0000c\u0000-\u0000r\u0000e\u0000n\u0000d\u0000e\u0000r\u0000-\u0000b\u0000o\u0000t\u0000\r\u0000 \u0000\"# mc-render-bot\"  \r #\u0000 \u0000m\u0000c\u0000-\u0000r\u0000e\u0000n\u0000d\u0000e\u0000r\u0000-\u0000b\u0000o\u0000t\u00001\u0000\r\u0000 \u0000#\u0000 \u0000m\u0000c\u0000-\u0000r\u0000e\u0000n\u0000d\u0000e\u0000r\u0000-\u0000b\u0000o\u0000t\u00001\u0000\r\u0000 \u0000#\u0000 \u0000m\u0000c\u0000-\u0000r\u0000e\u0000n\u0000d\u0000e\u0000r\u0000-\u0000b\u0000o\u0000t\u00001\u0000\r\u0000 \u0000#\u0000 \u0000m\u0000c\u0000-\u0000r\u0000e\u0000n\u0000d\u0000e\u0000r\u0000-\u0000b\u0000o\u0000t\u00002\u0000\r\u0000 \u0000\"# mc-render-bot2\"",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fernandobezam/mc-render-bot2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fernandobezam/mc-render-bot2/issues"
+  },
+  "homepage": "https://github.com/fernandobezam/mc-render-bot2#readme"
+}
